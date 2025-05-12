@@ -5,7 +5,7 @@
                 <ul class="list-inline list-inline-dots mb-0">
                     <li class="list-inline-item">
                         Copyright &copy; <?= date('Y') ?>
-                        <a href="." class="link-secondary">O-Stock</a>.
+                        <a href="." class="link-secondary">Niztock</a>.
                         All rights reserved.
                     </li>
                 </ul>
