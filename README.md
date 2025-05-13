@@ -131,8 +131,7 @@ Anda perlu melakukan sedikit konfigurasi di bawah ini sebelum mulai menjalankan 
 11. Buka kembali terminal di Visual Studio Code, jalankan perintah migrate dan seed.
     - Migrate
       ```console
-      php spark migrate -2024-07-27-125132_create_Niztock_tables
-      php spark migrate -2024-07-27-134447_create_auth_tables
+      php spark migrate
       ```
 
     - Seed
